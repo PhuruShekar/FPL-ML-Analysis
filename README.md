@@ -1,2 +1,2 @@
-# stocks-v-soccer
-Trying to find the correlation between soccer teams and certain stocks based on historical data.
+# FPL ML Analysis
+Analyze past and recent Premier League data to determine the ideal team in the upcoming week
